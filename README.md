@@ -1,6 +1,6 @@
 # - 👋 Hi, Welcome to my Repo
 ## - I’m @BPM17
-#### - Fullstack developer in process.
+#### - Fullstack developer in progress.
 #### - I´m a python developer.
 #### - 👀 I´m trying to dive in AI, Data science.
 #### - 💞️ I also like ... Electronics, Automation, Automovile.
